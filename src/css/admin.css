@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+#btn-inicio {
+  margin: 0 auto;
+  display: block;
+  padding: 10px 25px;
+  background: #176A8E;
+  color: white;
+  border: 1px solid #176A8E;
+  border-radius: 10px;
+}
+
+#btn-inicio:hover {
+  background: white;
+  color: #176A8E;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.error p {
+  visibility: hidden;
+}
+/*# sourceMappingURL=admin.css.map */
